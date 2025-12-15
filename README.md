@@ -66,9 +66,9 @@ Car enthusiast. I follow vehicle tech and automation.
 ---
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=IgariokVulcanizare&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=IgariokVulcanizare&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgariokVulcanizare&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=igortacu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=igortacu&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=igortacu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
