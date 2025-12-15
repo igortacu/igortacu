@@ -74,4 +74,4 @@ Car enthusiast. I follow vehicle tech and automation.
 
 ![](https://github-contributor-stats.vercel.app/api?username=IgariokVulcanizare&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=IgariokVulcanizare&icon=1&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=igortacu&icon=1&color=9)](https://visitcount.itsvg.in)
