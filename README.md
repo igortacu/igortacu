@@ -2,7 +2,7 @@
 
 Transform ideas into digital experiences.
 
-I’m Igor Tacu. Software Engineering student (18).  
+I’m Igor Tacu. Software Engineering student (19).  
 I build web apps, Unity 2D learning games, and small electronics projects.  
 1 year shipping mobile educational games in Unity 2D.
 
