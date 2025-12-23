@@ -1,75 +1,39 @@
 ## Igor Tacu
 
-Transform ideas into digital experiences.
+**Full-Stack Developer**
 
-I’m Igor Tacu. Software Engineering student (19).  
-I build web apps, Unity 2D learning games, and small electronics projects.  
-1 year shipping mobile educational games in Unity 2D.
-
-### What I work on
-- Interactive web projects with clean UI and solid structure  
-- Mobile educational games in Unity 2D  
-- Small prototypes blending code + hardware
-
-### What I learn now
-- React, Node.js, Python, C#  
-- Better architecture, testing habits, and teamwork workflows
-
-### Collaboration
-I like teams with clear goals, fast feedback, and clean code reviews.  
-Open to projects in web, games, tooling, and product MVPs.
-
-### Ask me about
-- Web: JavaScript, React, Node.js  
-- Games: Unity 2D, C#, UI, gameplay loops  
-- Educational game design
-
-### Fun fact
-Car enthusiast. I follow vehicle tech and automation.
-
-### Featured
-- **Mobile Educational Game**  
-  Unity 2D learning app for students. Gameplay-first learning, simple UX.
-- **Personal Website** — [igortacu.com](https://igortacu.com)
+I build full-stack web products end-to-end: UI, APIs, data, auth, and deployment.  
+I focus on clean architecture, fast UX, and production reliability.
 
 ---
 
-## Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tacu.igor)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivampyyy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivampyy)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/iVampyy)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ivampyy)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/iVampyy)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ivampyy)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ivampyy)
+## What I do
+- **Frontend:** Next.js (App Router), TypeScript, responsive UI, accessibility basics
+- **Backend:** Node.js / Express, REST APIs, service layers, background jobs
+- **Data:** schema design, migrations, query performance basics
+- **Delivery:** Docker, CI workflows, monitoring/logging basics
 
 ---
 
-## Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## Work style
+- Clear boundaries and readable code
+- Small PRs, fast review cycles
+- Tests where risk is high (auth, billing, data logic)
+- Docs for setup, APIs, and decisions
 
 ---
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=igortacu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=igortacu&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=igortacu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Tech stack
+**Core**
+- TypeScript, Next.js, Node.js, Express
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Data layer
+- **NoSQL-first:** MongoDB (document modeling, indexes, aggregation basics)
+- **SQL (some experience):** SQL Server (tables, joins, stored procedures basics)
 
-![](https://github-contributor-stats.vercel.app/api?username=IgariokVulcanizare&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## What I build end-to-end
+- Next.js apps with server-side patterns (auth, caching, SSR/ISR where needed)
+- Node.js / Express APIs with clean layers (routes → services → data)
+- MongoDB-backed systems (schemas, indexes, query patterns)
+- Production basics (Docker, CI, env management)
+
