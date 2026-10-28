@@ -1,39 +1,47 @@
 ## Igor Tacu
 
-**Full-Stack Developer**
+**AI/ML Engineer**
 
-I build full-stack web products end-to-end: UI, APIs, data, auth, and deployment.  
-I focus on clean architecture, fast UX, and production reliability.
-
----
-
-## What I do
-- **Frontend:** Next.js (App Router), TypeScript, responsive UI, accessibility basics
-- **Backend:** Node.js / Express, REST APIs, service layers, background jobs
-- **Data:** schema design, migrations, query performance basics
-- **Delivery:** Docker, CI workflows, monitoring/logging basics
+I build and ship production AI systems — LLM agents, RAG pipelines, and ML models — from orchestration logic down to the evaluation harness that proves they work. Background in QA automation, so reliability and measured regression aren't an afterthought.
 
 ---
 
-## Work style
-- Clear boundaries and readable code
-- Small PRs, fast review cycles
-- Tests where risk is high (auth, billing, data logic)
-- Docs for setup, APIs, and decisions
+### What I do
+- **AI/ML:** LLM agent orchestration (LangGraph), RAG pipelines, vector search (Chroma), prompt-injection resistance, evaluation harnesses, classical ML (scikit-learn)
+- **Backend:** Python services, REST APIs, typed conversation/session state, deterministic rules engines alongside LLM output
+- **Data:** PostgreSQL, relational modeling, instrumentation (cost/latency/token usage/fallback rate)
+- **Delivery:** Docker, GitHub Actions, on-prem + cloud hybrid deployment
 
 ---
 
-## Tech stack
+### Currently
+- **AI/ML Engineer @ Microinvest** — multi-agent platform on Azure AI Foundry, reusable auth/session/tool-orchestration baseline, hybrid on-prem/cloud deployment
+- **ML Engineer @ Sigmoid** — designing tasks and automated evaluators for LMML (an ML competition): RAG debugging, model compression, ML artifact security
+- **AI Engineer (Contract) @ LucAuto** — multilingual (RO/RU/EN) LLM support/booking assistant on LangGraph, 1,600+ scenario eval harness, human-in-the-loop operator review, rim-damage vision pipeline
+
+---
+
+### Work style
+- Model output is untrusted by default — schema-validated, business-critical facts generated deterministically, not by the LLM
+- Changes land on measured regression, not demonstration — if there's no eval, there's no ship
+- Small, reviewable PRs; tests where risk is high (auth, payments, model behavior)
+- Docs for setup, APIs, and the reasoning behind decisions
+
+---
+
+### Tech stack
+
 **Core**
-- TypeScript, Next.js, Node.js, Express
+- Python, TypeScript, Java, SQL
 
-## Data layer
-- **NoSQL-first:** MongoDB (document modeling, indexes, aggregation basics)
-- **SQL (some experience):** SQL Server (tables, joins, stored procedures basics)
+**AI/ML**
+- LangGraph, RAG pipelines, Chroma (vector DB), scikit-learn, pandas, SHAP
 
-## What I build end-to-end
-- Next.js apps with server-side patterns (auth, caching, SSR/ISR where needed)
-- Node.js / Express APIs with clean layers (routes → services → data)
-- MongoDB-backed systems (schemas, indexes, query patterns)
-- Production basics (Docker, CI, env management)
+**Backend & data**
+- REST APIs, PostgreSQL, SQL Server, relational modeling
 
+**Test automation (background)**
+- RestAssured, Playwright, Cucumber (BDD), JUnit 5, JDBC/HikariCP
+
+**Delivery**
+- Docker, Docker Compose, GitHub Actions, Linux/Windows
